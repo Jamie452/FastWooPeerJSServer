@@ -1,0 +1,15 @@
+{
+    "name": "PeerJSServer",
+    "version": "1.0.0-4",
+    "private": false,
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "peer": "*"
+    },
+    "subdomain": "fastwoo-peerjs",
+    "engines": {
+        "node": "0.10.*"
+    }
+}
